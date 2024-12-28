@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "666168852603",
+    "project_id": "gestionbibfirebase-9f9f5",
+    "storage_bucket": "gestionbibfirebase-9f9f5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666168852603:android:9594103eba3188741da2de",
+        "android_client_info": {
+          "package_name": "com.example.gestionbib"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlFrlnd7Ln6X4TNlvrkjv_-r4NQ0VZy6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
